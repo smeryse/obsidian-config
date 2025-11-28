@@ -10,18 +10,83 @@
           {
             "id": "380d260b5d46bc56",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Аттестация/Журнал.md",
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "40a5dad09e904ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задачи/Задача о скобочных последовательностях (Числа Каталана).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Журнал"
+              "title": "Задача о скобочных последовательностях (Числа Каталана)"
+            }
+          },
+          {
+            "id": "72bf54602a0aec0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задачи/Частный случай формулы Вандермонда.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Частный случай формулы Вандермонда"
+            }
+          },
+          {
+            "id": "0ca8dd5228d1a45d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Задачи/Задача про слова.canvas",
+                "viewState": {
+                  "x": 243.5,
+                  "y": -1602,
+                  "zoom": -4
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Задача про слова"
+            }
+          },
+          {
+            "id": "41d31912f2c34066",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Задачи/Задача про слова.canvas",
+                "viewState": {
+                  "x": 243.5,
+                  "y": -1602,
+                  "zoom": -4
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Задача про слова"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -177,8 +242,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df7e369ed0fef86f",
+  "active": "7ada97b208dd690d",
   "lastOpenFiles": [
+    "TODO.md",
+    "Задачи/Задача про слова.canvas",
+    "Задачи/Задача о скобочных последовательностях (Числа Каталана).md",
+    "Задачи/Частный случай формулы Вандермонда.md",
+    "Задачи/28.11 Подстановки.md",
+    "Задачи/28.11 2я пара.md",
+    "Pasted image 20251128140854.png",
+    "Pasted image 20251120125642.png",
+    "Pasted image 20251120125409.png",
+    "tic_tac_toe_tree (WARMING).canvas",
+    "Untitled.md",
     "Практики/ЛР12 [WIP]/House (Finished).20251128-193304.FCBak",
     "Практики/ЛР12 [WIP]/House (Finished).FCStd.f49fc703-69b2-44fe-8a16-985f431cb3e7",
     "Лекции/1 Лекция.md",
@@ -193,7 +269,6 @@
     "Практики/ЛР11 [WIP]/ЛР11-Здание.ifc",
     "Практики/ЛР11 [WIP]/~WRL2686.tmp",
     "Практики/ЛР11 [WIP]/~WRD2619.tmp",
-    "Практики/ЛР11 [WIP]/~WRL1412.tmp",
     "Справка.md",
     "Сведения.md",
     "Практики/LB2/ПР2.md",
